@@ -31,7 +31,7 @@ Python Scripts: The scripts process the dataset, clean it, analyze performance m
 Excel: Use Pivot Tables to analyze acceptance rates by demographics and create basic charts.
 Power BI: Build interactive dashboards with visuals like Column Charts, Bar Charts, Pie Charts, and Box and Whisker Charts to explore campaign effectiveness, demographics, and sentiment.
 
-##Key Insights
+## Key Insights
 The analysis provides the following key insights (from analyze_data.py):
 
 Campaign Performance: Customers who accept the campaign typically have fewer contacts (average ~2.5) and longer call durations (~300 seconds) compared to those who reject (average ~3.5 contacts, ~200 seconds). Excessive contacts (>5) and short durations may reduce acceptance rates.
